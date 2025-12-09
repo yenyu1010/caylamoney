@@ -7,6 +7,9 @@
     "react-scripts": "5.0.1",
     "lucide-react": "^0.263.1"
   },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
